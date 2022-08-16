@@ -17,7 +17,7 @@ from kli import udal
 import kbvab
 import os
 
-ID = 1425016250
+ID = 
 sqlite.create_connection()
 kupe.register_handles_admin(dp)
 tumboc.register_handles_ad(dp)
